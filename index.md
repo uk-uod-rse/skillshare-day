@@ -1,0 +1,38 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+CB RSE Skill Share 
+===
+
+*A day of informal hands-on sessions given by people in UoD Life Sciences Discovery Centre. It costs nothing to attend, spaces are not guaranteed, and there is no free lunch, or coffee !*
+
+**31st May - 9am to 5pm (pub after)**
+
+**Location: UoD Life Sciences Discovery Centre - The  Mezzanine Seminar Room**
+
+**Visitors should sign in at the CTIR Reception.**
+
+
+|:-|:-|:-----------------|:-
+| Time | Topic | Lead |
+|---
+| 9.15-9.30am | 0. **Introductions / Getting started with Jupyter** | |
+|---
+| 9.30-10.45am | 1. **Keras Intro: Recurrent & Convolutional Networks** | Matt Parker |
+|---
+| 11-12.00pm | 2. **Jupyter notebooks anonymous** <br/> - structuring <br/> - multiple notebooks <br/> - cluster submission <br/> - sharing / binder <br/> - API design <br/> | Stuart MacGowan, James Abbot, and anyone else ! |
+|---
+| 1pm-2pm | Internal seminar (UoD Staff/Students only!) | |
+|---
+| 2.15pm-3pm | 3. **Writing Java for the Web** <br/> Java to Javascript with SwingJS | Mungo Carstairs |
+|---
+| 3pm-3.30pm | 4. **Building some of OME's Web Tools** | Will Moore |
+|---
+| 4pm-5pm | 5. **GUI Development with React.js** | Rob, Barry, Scott & Chris - Plat. Informatics | 
+|===
+| 5pm | 6. **Drinks at The Orwell** (or somewhere with a beer garden if weather permits) | Jim |
+|---
