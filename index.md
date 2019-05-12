@@ -4,25 +4,20 @@
 
 layout: home
 ---
-
 CB RSE Skill Share 
 ===
-
+<style>.container { padding: 0rem 0px; }</style>
 *A day of informal hands-on sessions given by people in UoD Life Sciences' Discovery Centre.*
-
+- **31st May - 9am to 5pm (pub after)**
+- **Location: UoD Life Sciences Discovery Centre - The  Mezzanine Seminar Room**
+- **Visitors should sign in at the CTIR Reception.**
 - It costs nothing to attend
 - Space in each session is not guaranteed
 - There's no free lunch, or free coffee !
 
-<div style="text-align: center; border: ridge; border-width: 5px; width: 30%;"> We also recommend you sign up for the <a href="https://www.eventbrite.co.uk/e/bioinformatics-mini-symposium-at-dundee-tickets-55754217365">Bioinformatics Mini-Symposium</a><br/> on the 30th May! </div>
-
-**31st May - 9am to 5pm (pub after)**
-
-**Location: UoD Life Sciences Discovery Centre - The  Mezzanine Seminar Room**
-
-**Visitors should sign in at the CTIR Reception.**
-
 [![Gitter](https://badges.gitter.im/uk-uod-rse/skillshare-days.svg)](https://gitter.im/uk-uod-rse/skillshare-days?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+ <div style="float: right; text-align: center; border: ridge; border-width: 5px; width: 100%;"> Don't Forget to Register for the <a href="https://www.eventbrite.co.uk/e/bioinformatics-mini-symposium-at-dundee-tickets-55754217365">Bioinformatics Mini-Symposium</a><br/> on 30th May!</div>
 
 |:-|:-|:-----------------|:-
 | Time | Topic | Lead |
