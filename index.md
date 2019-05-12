@@ -1,3 +1,4 @@
+
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
@@ -8,7 +9,11 @@ layout: home
 CB RSE Skill Share 
 ===
 
-*A day of informal hands-on sessions given by people in UoD Life Sciences Discovery Centre. It costs nothing to attend, spaces are not guaranteed, and there is no free lunch, or coffee !*
+*A day of informal hands-on sessions given by people in UoD Life Sciences Discovery Centre.*
+
+- It costs nothing to attend
+- Space in each session is not guaranteed
+- There's no free lunch, or free coffee !
 
 **31st May - 9am to 5pm (pub after)**
 
