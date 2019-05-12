@@ -8,11 +8,13 @@ layout: home
 CB RSE Skill Share 
 ===
 
-*A day of informal hands-on sessions given by people in UoD Life Sciences Discovery Centre.*
+*A day of informal hands-on sessions given by people in UoD Life Sciences' Discovery Centre.*
 
 - It costs nothing to attend
 - Space in each session is not guaranteed
 - There's no free lunch, or free coffee !
+
+<div style="text-align: center; border: ridge; border-width: 5px; width: 30%;"> We also recommend you sign up for the <a href="https://www.eventbrite.co.uk/e/bioinformatics-mini-symposium-at-dundee-tickets-55754217365">Bioinformatics Mini-Symposium</a><br/> on the 30th May! </div>
 
 **31st May - 9am to 5pm (pub after)**
 
