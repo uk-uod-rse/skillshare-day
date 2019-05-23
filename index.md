@@ -27,12 +27,11 @@ CB RSE Skill Share
 |:-|:-|:-----------------|:-
 | Time | Topic | Lead |
 |---
-| 9.00-9.55am | 1. **Getting started with Jupyter** | |
+| 9.00-9.55am | 1. **Getting started with Jupyter**  <br/> - structuring <br/> - multiple notebooks <br/> - cluster submission <br/> - sharing / binder <br/> - API design <br/> | Stuart MacGowan, James Abbot |
 |---
 | 10.00-10.55am | 2. **Keras Intro: Recurrent & Convolutional Networks** | Matt Parker |
 |---
 | 11-12.00pm | no session due to internal seminar (UoD staff/Students only) | |
-#- 3. **Jupyter notebooks anonymous** <br/> - structuring <br/> - multiple notebooks <br/> - cluster submission <br/> - sharing / binder <br/> - API design <br/> | Stuart MacGowan, James Abbot, and anyone else ! |
 |---
 | 1pm-2pm | No session due to internal seminar (UoD Staff/Students only!) | |
 |---
