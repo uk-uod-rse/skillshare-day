@@ -27,19 +27,19 @@ CB RSE Skill Share
 |:-|:-|:-----------------|:-
 | Time | Topic | Lead |
 |---
-| 9.00-9.55am | 1. **Getting started with Jupyter**  <br/> - structuring <br/> - multiple notebooks <br/> - cluster submission <br/> - sharing / binder <br/> - API design <br/> | Stuart MacGowan, James Abbot |
+| 9.00-9.55am | 1. **Getting started with Jupyter**  <br/> - structuring <br/> - multiple notebooks <br/> - cluster submission <br/> - sharing / binder <br/> - API design <br/> [GitHub](https://github.com/stuartmac/sweet-jupy/) | Stuart MacGowan, James Abbot |
 |---
-| 10.00-10.55am | 2. **Keras Intro: Recurrent & Convolutional Networks** | Matt Parker |
+| 10.00-10.55am | 2. **Keras Intro: Recurrent & Convolutional Networks** <br/> [GitHub](https://github.com/bartongroup/MP_keras_tutorial) | Matt Parker |
 |---
 | 11-12.00pm | no session due to internal seminar (UoD staff/Students only) | |
 |---
 | 1pm-2pm | No session due to internal seminar (UoD Staff/Students only!) | |
 |---
-| 2.15pm-3pm | 3. **Writing Java for the Web** <br/> Java to Javascript with SwingJS | Mungo Carstairs |
+| 2.15pm-3pm | 3. **Writing Java for the Web** <br/> Java to Javascript with SwingJS <br/> [GitHub](https://github.com/gmungoc/SwingJSDemo) | Mungo Carstairs |
 |---
-| 3pm-3.30pm | 4. **Building some of OME's Web Tools** | Will Moore |
+| 3pm-3.30pm | 4. **Building some of OME's Web Tools** <br/> [Presentation](http://will-moore.github.io/presentations/2019/RSE_Skillshare/OMERO.web/) | Will Moore |
 |---
-| 4pm-5pm | 5. **GUI Development with React.js** | Rob, Barry, Scott & Chris - Plat. Informatics | 
+| 4pm-5pm | 5. **GUI Development with React.js** <br/> [GitHub](https://github.com/barrycarr/uk-uod-rse-skillshare-day-react-typescript) | Rob, Barry, Scott & Chris - Plat. Informatics | 
 |===
 | 5pm | 6. **Drinks at The Orwell** (or somewhere with a beer garden if weather permits) | Jim |
 |---
